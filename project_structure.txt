@@ -1,0 +1,17 @@
+LHCb_Project/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── project_structure.txt <---- CURRENT
+│
+├── data/
+│
+├── figures/
+│
+├── modules/
+│
+├── notebooks/
+│
+│
+└── report/
