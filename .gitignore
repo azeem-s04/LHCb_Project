@@ -1,5 +1,8 @@
 # Private documents
 /Documents for my eyes only/
 
+# Large publicly-available LHCb datasets
+/data/
+
 # Python cache
 /modules/__pycache__
