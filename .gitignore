@@ -2,7 +2,8 @@
 /Documents for my eyes only/
 
 # Large publicly-available LHCb datasets
-/data/
+/data/*
+!/data/README.md
 
 # Python cache
 /modules/__pycache__

@@ -1,0 +1,6 @@
+uproot==5.7.7
+awkward==2.15.1
+numpy
+scipy
+matplotlib
+pandas
