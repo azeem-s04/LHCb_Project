@@ -8,7 +8,7 @@ The datasets are not included in this repository. They must be obtained separate
 
 1. ### Obtaining the data
 
-   * Visit the CERN Open Data Portal.  
+   * Visit the CERN Open Data Portal.
    * Locate the LHCb dataset specified in the main project README.
    * Download the ROOT files required for the analysis.
 
@@ -24,9 +24,11 @@ data/
 
 ├── README.md
 
-└── 00334560\_00000001\_1.dvntuple.root
+├── 2016\_MagDown/
 
-**───** 00334560\_00000002\_1.dvntuple.root
+&#x20;   └─── 00334560\_00000001\_1.dvntuple.root
+
+&#x20;   └─── 00334560\_00000002\_1.dvntuple.root
 
 
 
