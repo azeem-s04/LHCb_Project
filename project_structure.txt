@@ -1,19 +1,15 @@
 LHCb_Project/
-│
 ├── data/
-     └── README.md # only folder content exempt from .gitignore
-     └── 2016_MagDown
-	  └── 00334560_00000001_1.dvntuple.root
-	  └── 00334560_00000002_1.dvntuple.root
+     └── data_README.md
 ├── figures/
+     └── Jpsi_inv_mass
+	  └── jpsi_mass.png
+	  └── Jpsi_mass_with_residuals.svg
 ├── modules/
      └── __init__.py
 ├── notebooks/
      └── 01_data_access.py
-     └── 02_data_exploration.py ###
-     └── 03_kinematic_reconstruction.py ###
 ├── report/
-│
 ├── .gitignore
 ├── config.py
 ├── project_structure.txt
